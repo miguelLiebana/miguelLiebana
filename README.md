@@ -1,4 +1,4 @@
-#Título del proyecto
+# Título del proyecto
 Proyecto de Prácticas de Desarrollo Ágil
-##Sobre mí
+## Sobre mí
 Hola soy Miguel, estudiante de tercero de Ingeniería Informática.
